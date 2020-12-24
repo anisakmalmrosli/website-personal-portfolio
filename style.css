@@ -1,0 +1,81 @@
+body
+	{background-color: darkslategray}
+
+h1 {
+	font-family: stencil;
+	color: white;
+	font-size: 60px;
+	border: solid;
+	border-radius:50px;
+	border-color: darksalmon;
+	border-width: 10px;
+	}
+
+h2 {
+	font-family: stencil;
+	background-color: black;
+	color: white;
+	font-size: 40px;
+	border:solid;
+	border-radius:50px;
+	border-color:aquamarine;
+	}
+
+h3 {
+	font-family: viner hand itc;
+	background-color: aquamarine;
+	font size: 30px;
+	border: solid;
+	border-radius: 30px;
+	border-color:darksalmon;
+	border-width: 15px;
+
+	}
+
+h4 {
+	font-family: stencil;
+	background-color: darksalmon;
+	color: white;
+	font-size: 30px;
+	border:solid;
+	border-radius:30px;
+	border-color:aquamarine;
+	}
+
+p {
+	font-family: stencil;
+	color: black;
+	background-color: darksalmon;
+	font-size: 20px;
+	border: solid;
+	border-radius: 30px;
+	border-color:aquamarine;
+	border-spacing: 15pt;
+	}
+
+a:link, a:visited
+	{
+	background-color: black;
+	color: aquamarine;
+	display: inline-block;
+	border-radius: 25px;
+	padding: 15px;
+	}
+
+a:hover, a:active
+{
+background-color: darksalmon;
+color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
